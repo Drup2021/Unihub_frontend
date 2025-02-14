@@ -1,0 +1,83 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "title": "Web Development Workshop",
+        "date": "2023-12-15",
+        "description": "Learn the basics of web development with hands-on projects.",
+        "image": "./assets/event-1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "AI & Machine Learning Seminar",
+        "date": "2024-01-10",
+        "description": "Explore the future of AI and machine learning.",
+        "image": "./assets/event-2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Community Meetup",
+        "date": "2024-02-05",
+        "description": "Connect with like-minded individuals in our community.",
+        "image": "./assets/event-3.jpg"
+      }
+    ],
+    "forumPosts": [
+      {
+        "id": 1,
+        "title": "Getting Started with React",
+        "author": "John Doe",
+        "content": "A beginner's guide to React.js."
+      },
+      {
+        "id": 2,
+        "title": "Advanced CSS Techniques",
+        "author": "Jane Smith",
+        "content": "Master advanced CSS for stunning designs."
+      }
+    ],
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Alice",
+        "comment": "This community is amazing! I learned so much from the forums."
+      },
+      {
+        "id": 2,
+        "name": "Bob",
+        "comment": "The events are well-organized and very informative."
+      }
+    ],
+    "team": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "role": "Founder",
+          "image": "./assets/team-member-1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "role": "Lead Developer",
+          "image": "./assets/team-member-2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Alice Johnson",
+          "role": "Designer",
+          "image": "./assets/team-member-3.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bob Brown",
+          "role": "Marketing",
+          "image": "./assets/team-member-4.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Charlie Davis",
+          "role": "Support",
+          "image": "./assets/team-member-5.jpg"
+        }
+      ]
+  }
